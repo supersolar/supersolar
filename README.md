@@ -37,4 +37,4 @@ I am a fullstack software engineer from Tacoma, WA USA
 <br>
 <br>
 -->
-<a href="https://app.daily.dev/kirksolar"><img src="https://api.daily.dev/devcards/8ba01a351a1849e9b2773496b98e2b47.png?r=dt3" width="400" alt="Kirk Solar's Dev Card"/></a>
+<a href="https://app.daily.dev/kirksolar"><img src="https://api.daily.dev/devcards/8ba01a351a1849e9b2773496b98e2b47.png?r=u44" width="400" alt="Kirk Solar's Dev Card"/></a>
